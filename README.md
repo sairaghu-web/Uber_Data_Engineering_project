@@ -5,6 +5,9 @@ This project dives into the world of Uber data analytics using modern data engin
 Architecture
 Project Architecture
 
+
+![architecture](https://github.com/user-attachments/assets/f4411cf1-c801-4b5d-9ad8-cb2e12be84f3)
+
 Technology Used
 Programming Language - Python
 Scripting Language - SQL
@@ -28,6 +31,9 @@ Original Data Source - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.p
 Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 Data Model
 Data model image
+
+
+![data_model](https://github.com/user-attachments/assets/857149de-dcf5-44df-bdd8-a66696f9b289)
 
 Scripts for project
 Extract Python File
